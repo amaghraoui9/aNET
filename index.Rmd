@@ -1,0 +1,12 @@
+---
+title: "Github Repo Page"
+author: "Adam Maghraoui"
+date: "2024-02-22"
+output: html_document
+---
+
+## My Github Repo Page
+
+![Image of Adam Maghraoui enjoying the sun at a beach in Morocco](Images/Adam_Maghraoui.jpg)
+
+
